@@ -48,5 +48,5 @@ I am always looking for interesting programming projects to get involved with! P
 ## Miscellaneous Tools
 
 <img src = "https://cdn-icons-png.flaticon.com/512/732/732070.png" align = "left" width = "30px" height = "30px" alt = "office-365">
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/2560px-LaTeX_logo.svg.png" align = "left" width = "64px" height = "30px" alt = "latex-logo">
+<span><a href = "https://www.latex-project.org/" target = "_blank">LaTeX</a></span>
 <br>
