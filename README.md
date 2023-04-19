@@ -1,6 +1,6 @@
 ## Introduction
 
-![Shogo's GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=stoyonaga&show_icons=true&theme=tokyonight)
+![Shogo's GitHub](https://github-readme-stats.vercel.app/api?username=stoyonaga&show_icons=true&theme=tokyonight)
 
 Hi there! My name is Shogo, and I'm currently a Fourth Year Computer Science major at York University, Lassonde School of Engineering.
 My current interests lie in the study of the Design and Analysis of Algorithms, Theory of Computation, Discrete Mathematics, and Computer Security.
