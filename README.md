@@ -2,10 +2,10 @@
 
 ![Shogo's GitHub](https://github-readme-stats.vercel.app/api?username=stoyonaga&show_icons=true&theme=tokyonight)
 
-Hi there! My name is Shogo, and I'm currently a Fourth Year Computer Science major at York University, Lassonde School of Engineering.
-My current interests lie in the study of the Design and Analysis of Algorithms, Theory of Computation, Discrete Mathematics, and Computer Security.
+Hi there! My name is Shogo, and I'm currently a Graduate Student studying Computer Science at York University, Lassonde School of Engineering.
+My current interests lie in the study of Human-Computer Interaction and Machine Learning. 
 
-In my free time, I also enjoy studying and reading about Philosophy. Existentialism, Optimistic Nihilism, Stoicism, and Logic are my favourite topics to read about.
+In my free time, I also enjoy studying and reading about Philosophy, Anthropology, and Logic.
 Lastly, cycling, photography, and gaming are some of my other hobbies as well! 
 
 <br>
