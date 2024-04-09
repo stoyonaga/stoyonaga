@@ -1,4 +1,12 @@
 ## Introduction &nbsp; <img src = "https://cdn.7tv.app/emote/64e0eb7758f8abcb32f8e760/4x.webp" with = "30px" height = "30px">
+
+Hi there, my name is Shogo! I am a Fourth-Generation Japanese-Canadian citizen studying Computer Science at [York University, Lassonde School of Engineering](https://lassonde.yorku.ca/). Currently, I am working in the Persuasive Design Lab under the supervision of [Dr. Kiemute Oyibo](https://lassonde.yorku.ca/users/koyibo).  
+
+I was born and raised in Toronto Ontario, one of the most multicultural cities in the world! This experience has allowed me to embrace the multiplicity of different lifestyles, allowing me to learn how to connect with many people and improve my soft skills.
+
+Lastly, my unique combination of an arts background (Hons BA) and science (MSc) allows me to maneuver between interdisciplinary fields and create well-thought out and articulated rationales behind my innovations.  
+
+
 <a href="https://github.com/stoyonaga/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=stoyonaga&theme=tokyonight" />
 </a>
@@ -9,7 +17,6 @@
 <br>
 <br>
 
-Hi there! My name is Shogo, and I'm currently a Graduate Student studying Computer Science at York University, Lassonde School of Engineering.
 ```python
 about_me = {
   '✏️': 'Master of Science, Computer Science, York University (2023 - Present)'
