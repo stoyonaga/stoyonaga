@@ -5,7 +5,10 @@
 <a href="https://github.com/stoyonaga">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stoyonaga&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </a>
+
 <br>
+<br>
+
 Hi there! My name is Shogo, and I'm currently a Graduate Student studying Computer Science at York University, Lassonde School of Engineering.
 ```python
 about_me = {
