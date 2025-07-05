@@ -1,4 +1,4 @@
-## Introduction &nbsp; <img src = "https://cdn.7tv.app/emote/64e0eb7758f8abcb32f8e760/4x.webp" with = "30px" height = "30px">
+## Introduction &nbsp; <img src = "https://cdn.7tv.app/emote/64e0eb7758f8abcb32f8e760/4x.webp" width = "50px" height = "50px">
 
 Hi there, my name is Shogo! I am a Fourth-Generation Japanese-Canadian citizen studying Computer Science at [York University, Lassonde School of Engineering](https://lassonde.yorku.ca/). Currently, I am working in the Persuasive Design Lab under the supervision of [Dr. Kiemute Oyibo](https://lassonde.yorku.ca/users/koyibo).  
 
@@ -29,7 +29,7 @@ about_me = {
 ```python
 interests = {
   '🤖': 'Machine Learning',
-  '🔬': 'Human-Computer Interaction',
+  '🔬': 'Human-Computer Interaction | Human-AI Interaction',
   '💿': 'Data Science',
   '🗿': 'Philosophy'
 }
