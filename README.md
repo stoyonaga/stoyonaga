@@ -1,10 +1,13 @@
 ## Introduction &nbsp; <img src = "https://cdn.7tv.app/emote/64e0eb7758f8abcb32f8e760/4x.webp" width = "50px" height = "50px">
 
-Hi there, my name is Shogo! I am a Fourth-Generation Japanese-Canadian citizen studying Computer Science at [York University, Lassonde School of Engineering](https://lassonde.yorku.ca/). Currently, I am working in the Persuasive Design Lab under the supervision of [Dr. Kiemute Oyibo](https://lassonde.yorku.ca/users/koyibo).  
+Hi there, my name is Shogo! I am a Fourth-Generation Japanese-Canadian Computer Science Graduate (MSc, BA) from [York University, Lassonde School of Engineering](https://lassonde.yorku.ca/).   
 
-I was born and raised in Toronto Ontario, one of the most multicultural cities in the world! This experience has allowed me to embrace the multiplicity of different lifestyles, allowing me to learn how to connect with many people and improve my soft skills.
+I was born and raised in Toronto, one of the most multicultural cities in the world! This experience has allowed me to embrace the multiplicity of different lifestyles, allowing me to learn how to connect with many people and improve my soft skills.
 
-Lastly, my unique combination of an arts background (Hons BA) and science (MSc) allows me to maneuver between interdisciplinary fields and create well-thought out and articulated rationales behind my innovations.  
+My unique combination of an arts (Hons BA) and science (MSc) background allows me to maneuver between interdisciplinary fields and create well-thought out and articulated rationales behind my innovations.  
+
+> [!NOTE]  
+> I am currently looking for part/full-time work as a software developer, data analyst, tutor, or research assistant in Toronto. Open to in-person/hybrid/remote work.
 
 
 <a href="https://github.com/stoyonaga/github-readme-stats">
@@ -19,9 +22,10 @@ Lastly, my unique combination of an arts background (Hons BA) and science (MSc) 
 
 ```python
 about_me = {
-  '✏️': 'Master of Science, Computer Science, York University (2023 - Present)'
-  '🧑‍💼': 'Teaching Assistant | Research Assistant | York / Dalhousie University (2023 - Present)'
-  '🧪': 'Graphics and Media at York (GaMaY) | Persuasive Design Lab'
+  '❓': 'In Progress....',
+  '🧑‍💼': 'Teaching Assistant | Research Assistant | York / Dalhousie University (2023 - Present)',
+  '✏️': 'Master of Science, Computer Science, York University (2023 - 2025)',
+  '🧪': 'Graphics and Media at York (GaMaY) (2023 - 2025)',
   '🎓': 'Hons B.A., Computer Science, York University (2017- 2022)'
 }
 ```
