@@ -1,6 +1,6 @@
-## Introduction &nbsp; <img src = "https://cdn.7tv.app/emote/64e0eb7758f8abcb32f8e760/4x.webp" width = "50px" height = "50px">
+## Introduction 
 
-Hi there, my name is Shogo! I am a Fourth-Generation Japanese-Canadian Computer Science Graduate (MSc, BA) from [York University, Lassonde School of Engineering](https://lassonde.yorku.ca/).   
+Hi there, my name is Shogo 😊! I am a Fourth-Generation Japanese-Canadian Computer Science Graduate (MSc, BA) from [York University, Lassonde School of Engineering](https://lassonde.yorku.ca/).   
 
 I was born and raised in Toronto, one of the most multicultural cities in the world! This experience has allowed me to embrace the multiplicity of different lifestyles, allowing me to learn how to connect with many people and improve my soft skills.
 
