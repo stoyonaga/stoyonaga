@@ -64,7 +64,7 @@ hobbies = {
 
 ## Frameworks
 <p>
-  <code><img src = "https://www.eweek.com/wp-content/uploads/2023/04/hugging_face-icon.png" width = "30px" height = "30px"></code>
+  <code><img src = "https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" width = "30px" height = "30px"></code>
   <code><img src = "https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width = "30px" height = "30px"></code>
   <code><img src = "https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width = "30px" height = "30px"></code>
   <code><img src = "https://numpy.org/images/logo.svg" width = "30px" height = "30px"></code>
