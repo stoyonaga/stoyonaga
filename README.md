@@ -9,6 +9,15 @@ My unique combination of an arts (Hons BA) and science (MSc) background allows m
 > [!NOTE]  
 > I am currently looking for part/full-time work as a software developer, data analyst, tutor, or research assistant in Toronto. Open to in-person/hybrid/remote work.
 
+<br>
+
+<div>
+  <img align="center" src="https://github-readme-stats-lime-three-41.vercel.app/api?username=stoyonaga&theme=tokyonight"/>
+  <img align="center" src="https://github-readme-stats-lime-three-41.vercel.app/api/top-langs?username=stoyonaga&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+</div>
+
+<br>
+
 ```python
 about_me = {
   '❓': 'In Progress....',
