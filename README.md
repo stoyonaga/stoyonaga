@@ -11,10 +11,10 @@ My unique combination of an arts (Hons BA) and science (MSc) background allows m
 
 
 <a href="https://github.com/stoyonaga/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=stoyonaga&theme=tokyonight" />
+  <img height=200 align="center" src="github-readme-stats-iota-six-27.vercel.app/api?username=stoyonaga&theme=tokyonight" />
 </a>
 <a href="https://github.com/stoyonaga">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stoyonaga&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+  <img height=200 align="center" src="github-readme-stats-iota-six-27.vercel.app/api/top-langs?username=stoyonaga&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </a>
 
 <br>
